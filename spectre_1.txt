@@ -16,3 +16,4 @@
 127.0.0.1 business-api.tiktok.com
 127.0.0.1 ads.tiktok.com
 127.0.0.1 log.fc.yahoo.com
+# [please github update my raw file!]
