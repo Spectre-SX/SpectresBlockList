@@ -3,3 +3,16 @@
 127.0.0.1 click.googleanalytics.com
 127.0.0.1 mouseflow.com
 127.0.0.1 tools.mouseflow.com
+127.0.0.1 stats.wp.com
+127.0.0.1 notify.bugsnag.com
+127.0.0.1 sessions.bugsnag.com
+127.0.0.1 api.bugsnag.com
+127.0.0.1 app.bugsnag.com
+127.0.0.1 browser.sentry-cdn.com
+127.0.0.1 app.getsentry.com
+127.0.0.1 ads-api.twitter.com
+127.0.0.1 ads-api.tiktok.com
+127.0.0.1 ads-sg.tiktok.com
+127.0.0.1 business-api.tiktok.com
+127.0.0.1 ads.tiktok.com
+127.0.0.1 log.fc.yahoo.com
