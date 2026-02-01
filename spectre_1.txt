@@ -16,4 +16,16 @@
 127.0.0.1 business-api.tiktok.com
 127.0.0.1 ads.tiktok.com
 127.0.0.1 log.fc.yahoo.com
+127.0.0.1 appmetrica.yandex.ru
+127.0.0.1 metrika.yandex.ru
+127.0.0.1 adfox.yandex.ru
+# [doubled down on some because they WEREN'T GETTING BLOCKED???]
+127.0.0.1 business-api.tiktok.com
+127.0.0.1 ads-api.tiktok.com
+127.0.0.1 ads-api.twitter.com
+127.0.0.1 app.getsentry.com
+127.0.0.1 browser.sentry-cdn.com
+127.0.0.1 stats.wp.com
+127.0.0.1 mouseflow.com
+127.0.0.1 tools.mouseflow.com
 # [please github update my raw file!]
