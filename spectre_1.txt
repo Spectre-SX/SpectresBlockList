@@ -1,0 +1,5 @@
+# [Tested on https://adblock.turtlecute.org/]
+127.0.0.1 afs.googlesyndication.com
+127.0.0.1 click.googleanalytics.com
+127.0.0.1 mouseflow.com
+127.0.0.1 tools.mouseflow.com
