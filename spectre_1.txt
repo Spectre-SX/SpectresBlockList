@@ -19,6 +19,14 @@
 127.0.0.1 appmetrica.yandex.ru
 127.0.0.1 metrika.yandex.ru
 127.0.0.1 adfox.yandex.ru
+127.0.0.1 mediavisor.doubleclick.net
+127.0.0.1 click.googleanalytics.com
+127.0.0.1 google-analytics.com
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 script.hotjar.com
+127.0.0.1 surveys.hotjar.com
+127.0.0.1 mouseflow.com
+127.0.0.1 cdn.mouseflow.com
 # [doubled down on some because they WEREN'T GETTING BLOCKED???]
 127.0.0.1 business-api.tiktok.com
 127.0.0.1 ads-api.tiktok.com
